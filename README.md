@@ -1,10 +1,3 @@
-# Alarm_Clock
-
-Tech Stark:
-<br/>
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
-
-Link to Project: https://snigdha287.github.io/Alarm_Clock/
 
 <div align='center'>
 
@@ -19,9 +12,19 @@ Link to Project: https://snigdha287.github.io/Alarm_Clock/
 # :notebook_with_decorative_cover: Table of Contents
 
 - [About the Project](#star2-about-the-project)
+-[Tech Stack](#star2-Tech-Stark)
 
+
+
+## :star2: Tech Stark
+<br/>
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 ## :star2: About the Project
+This project consists of 3 file:
+1. A HTML file(index.html)
+2. A CSS File(Style.css)
+3. A Java Script File(Script.js)
 
 ### :art: Color Reference
 | Color | Hex |
