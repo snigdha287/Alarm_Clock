@@ -11,8 +11,8 @@
 
 # :notebook_with_decorative_cover: Table of Contents
 
-- [About the Project](#star2-about-the-project)
--[Tech Stack](#star2-Tech-Stark)
+- [About the Project](#star2-about-the-project) <br/>
+-  [Tech Stack](#star2-Tech-Stark)
 
 
 
@@ -26,10 +26,4 @@ This project consists of 3 file:
 2. A CSS File(Style.css)
 3. A Java Script File(Script.js)
 
-### :art: Color Reference
-| Color | Hex |
-| --------------- | ---------------------------------------------------------------- |
-| Primary Color | ![#8b7cb2](https://via.placeholder.com/10/8b7cb2?text=+) #8b7cb2 |
-| Secondary Color | ![#393E46](https://via.placeholder.com/10/393E46?text=+) #393E46 |
-| Accent Color | ![#00ADB5](https://via.placeholder.com/10/00ADB5?text=+) #00ADB5 |
-| Text Color | ![#EEEEEE](https://via.placeholder.com/10/EEEEEE?text=+) #EEEEEE |
+ 
